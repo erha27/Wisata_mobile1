@@ -1,6 +1,7 @@
 import 'package:aslab_travel/latihanmodul/pertemuan4.dart';
 import 'package:aslab_travel/latihanmodul/pertemuan5.dart';
 import 'package:aslab_travel/latihanmodul/pertemuan6.dart';
+import 'package:aslab_travel/latihanmodul/pertemuan9API.dart';
 import 'package:aslab_travel/screens/homepage.dart';
 import 'package:aslab_travel/screens/landingpage.dart';
 import 'package:aslab_travel/screens/splashscreen.dart';
